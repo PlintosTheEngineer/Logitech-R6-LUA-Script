@@ -21,10 +21,4 @@ The script is written in a **transparent and modular way**, so anyone can see ex
 - Use `CUSTOM` mode with your own X/Y per-tick values.  
 - Adjust `AverageCompAt5` to redefine what “average” recoil control feels like.  
 
-## 🚧 Limitations in v1.0.0
-- Presets cannot yet be cycled in-game (requires editing the script).  
-- Single global tick rate (`DelayRateMS = 7`).  
-- Humanization affects compensation amount, not recoil randomness.  
-- Does not auto-scale with DPI or in-game sensitivity (values tuned for defaults).  
-
 ---
